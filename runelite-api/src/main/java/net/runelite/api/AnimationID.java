@@ -92,4 +92,5 @@ public final class AnimationID
 	public static final int MINING_MOTHERLODE_INFERNAL = 0; // placeholder, unknown
 	public static final int HERBLORE_POTIONMAKING = 363; //used for both herb and secondary
 	public static final int MAGIC_CHARGING_ORBS = 726;
+	public static final int TEST = 69;
 }
